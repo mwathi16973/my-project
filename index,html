@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>   
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width= , initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   <nav>
+      <ul>
+      <li> <a href="index.html">Home</a></li>
+      <li> <a href="about.html">About us</a></li>
+      <li> <a href="contact.html">Contact us</a></li> 
+      
+   </nav>
+   <h1>Hello</h1>
+   <p>This is a an online market where we transform you to the technologically world of diffrent electronic.
+      We offer diffrent eletronics for example phones,smartwatches,smart-televisions,radio.We inspire to 
+   </p>
+</body>
+</html>
